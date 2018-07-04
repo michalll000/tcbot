@@ -1,5 +1,5 @@
 {
-  "name": "oofbot",
+  "name": "tc bot",
   "version": "1.0.0",
   "description": "first bot lol",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "ned",
   "license": "ISC",
   "dependencies": {
-    "superagent": "^3.8.3"
+  "discord.js": "^11.3.2",
   }
 }
