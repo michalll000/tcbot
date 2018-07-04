@@ -345,4 +345,4 @@ bot.on("message", async message => {
 
 
 // [SYSTEM] Logowanie BOTa
-bot.login(botconfig.token);
+bot.login(process.env.BOT_TOKEN);
